@@ -1,0 +1,1 @@
+Approximate Euclidean Distance transform with linear time complexity. This is an implementation with PCl, basic tools by wzh99 and parallelization, of the paper "A GENERAL ALGORITHM FOR COMPUTING DISTANCE TRANSFORMS IN LINEAR TIME" A. MEIJSTER*‚  J.B.T.M.  ROERDINK† and W.H. HESSELINK† University of Groningen P.O. Box 800, 9700 AV Groningen, The Netherlands
